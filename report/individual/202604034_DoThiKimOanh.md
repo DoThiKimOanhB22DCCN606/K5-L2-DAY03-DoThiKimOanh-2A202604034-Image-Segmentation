@@ -18,7 +18,7 @@ Ghi tên ZIP đúng như file trong `submissions/` và số ảnh đã vẽ, Sav
 | medium_instance | medium_instance | 3 / 3 | 32 |
 | hard_panoptic | hard_panoptic | 2 / 2 | 30 |
 | cp1_holes | cp1_holes | 1 / 1 | 3 |
-| cp2_slice | cp2_slice | 2 / 1 | 3 |
+| cp2_slice | cp2_slice | 1 / 1 | 3 |
 | cp5_occlusion | cp5_occlusion | 1 / 1 | 3 |
 | cp3_thin | cp3_thin | 1 / 1 | 3 |
 | cp4_curb | cp4_curb | 1 / 1 | 3 |
